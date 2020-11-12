@@ -1,0 +1,18 @@
+{
+  "src_word2id": {
+    "<pad>": 0,
+    "<s>": 1,
+    "</s>": 2,
+    "<unk>": 3,
+    "source": 4,
+    "file": 5
+  },
+  "tgt_word2id": {
+    "<pad>": 0,
+    "<s>": 1,
+    "</s>": 2,
+    "<unk>": 3,
+    "target": 4,
+    "file": 5
+  }
+}
